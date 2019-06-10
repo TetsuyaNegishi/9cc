@@ -1,9 +1,8 @@
-
 写経用リポジトリ
 
 ## 資料
 
-[低レイヤを知りたい人のためのCコンパイラ作成入門](https://www.sigbus.info/compilerbook)
+[低レイヤを知りたい人のための C コンパイラ作成入門](https://www.sigbus.info/compilerbook)
 
 ## memo
 
